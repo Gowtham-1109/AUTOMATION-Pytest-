@@ -1,0 +1,6 @@
+[32mINFO    [0m test_checkout:test_login.py:59 Test started
+[32mINFO    [0m test_checkout:test_login.py:63 Opening login page
+[32mINFO    [0m test_checkout:test_login.py:65 Logging in
+[32mINFO    [0m LoginPage:login_page.py:18 Entering username
+[32mINFO    [0m LoginPage:login_page.py:19 Entering password
+[32mINFO    [0m LoginPage:login_page.py:20 Clicking login button

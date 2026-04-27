@@ -1,0 +1,597 @@
+2026-03-24 17:35:16,712 - LoginPage - INFO - Entering username
+2026-03-24 17:35:16,713 - LoginPage - INFO - Entering password
+2026-03-24 17:35:16,713 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:23,711 - LoginPage - INFO - Entering username
+2026-03-24 17:35:23,711 - LoginPage - INFO - Entering username
+2026-03-24 17:35:23,711 - LoginPage - INFO - Entering password
+2026-03-24 17:35:23,711 - LoginPage - INFO - Entering password
+2026-03-24 17:35:23,712 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:23,712 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:30,814 - LoginPage - INFO - Entering username
+2026-03-24 17:35:30,814 - LoginPage - INFO - Entering username
+2026-03-24 17:35:30,814 - LoginPage - INFO - Entering username
+2026-03-24 17:35:30,818 - LoginPage - INFO - Entering password
+2026-03-24 17:35:30,818 - LoginPage - INFO - Entering password
+2026-03-24 17:35:30,818 - LoginPage - INFO - Entering password
+2026-03-24 17:35:30,819 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:30,819 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:30,819 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:34,665 - test_checkout - INFO - Test started
+2026-03-24 17:35:34,665 - test_checkout - INFO - Opening login page
+2026-03-24 17:35:38,068 - test_checkout - INFO - Logging in
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering username
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering username
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering username
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering username
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering password
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering password
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering password
+2026-03-24 17:35:38,069 - LoginPage - INFO - Entering password
+2026-03-24 17:35:38,069 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:38,069 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:38,069 - LoginPage - INFO - Clicking login button
+2026-03-24 17:35:38,069 - LoginPage - INFO - Clicking login button
+2026-03-24 17:42:46,282 - LoginPage - INFO - Entering username
+2026-03-24 17:42:46,282 - LoginPage - INFO - Entering password
+2026-03-24 17:42:46,282 - LoginPage - INFO - Clicking login button
+2026-03-24 17:42:55,313 - LoginPage - INFO - Entering username
+2026-03-24 17:42:55,313 - LoginPage - INFO - Entering username
+2026-03-24 17:42:55,314 - LoginPage - INFO - Entering password
+2026-03-24 17:42:55,314 - LoginPage - INFO - Entering password
+2026-03-24 17:42:55,314 - LoginPage - INFO - Clicking login button
+2026-03-24 17:42:55,314 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering username
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering username
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering username
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering password
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering password
+2026-03-24 17:43:01,993 - LoginPage - INFO - Entering password
+2026-03-24 17:43:01,993 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:01,993 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:01,993 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:05,879 - test_checkout - INFO - Test started
+2026-03-24 17:43:05,880 - test_checkout - INFO - Opening login page
+2026-03-24 17:43:09,271 - test_checkout - INFO - Logging in
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering username
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering username
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering username
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering username
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering password
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering password
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering password
+2026-03-24 17:43:09,271 - LoginPage - INFO - Entering password
+2026-03-24 17:43:09,271 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:09,271 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:09,271 - LoginPage - INFO - Clicking login button
+2026-03-24 17:43:09,271 - LoginPage - INFO - Clicking login button
+2026-03-24 17:48:52,255 - LoginPage - INFO - Entering username
+2026-03-24 17:48:52,256 - LoginPage - INFO - Entering password
+2026-03-24 17:48:52,256 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:01,244 - LoginPage - INFO - Entering username
+2026-03-24 17:49:01,244 - LoginPage - INFO - Entering username
+2026-03-24 17:49:01,244 - LoginPage - INFO - Entering password
+2026-03-24 17:49:01,244 - LoginPage - INFO - Entering password
+2026-03-24 17:49:01,244 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:01,244 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering username
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering username
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering username
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering password
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering password
+2026-03-24 17:49:08,927 - LoginPage - INFO - Entering password
+2026-03-24 17:49:08,927 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:08,927 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:08,927 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:13,306 - test_checkout - INFO - Test started
+2026-03-24 17:49:13,308 - test_checkout - INFO - Opening login page
+2026-03-24 17:49:16,323 - test_checkout - INFO - Logging in
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering username
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering username
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering username
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering username
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering password
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering password
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering password
+2026-03-24 17:49:16,324 - LoginPage - INFO - Entering password
+2026-03-24 17:49:16,324 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:16,324 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:16,324 - LoginPage - INFO - Clicking login button
+2026-03-24 17:49:16,324 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:23,010 - LoginPage - INFO - Entering username
+2026-03-24 22:21:23,011 - LoginPage - INFO - Entering password
+2026-03-24 22:21:23,011 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:28,826 - LoginPage - INFO - Entering username
+2026-03-24 22:21:28,826 - LoginPage - INFO - Entering username
+2026-03-24 22:21:28,827 - LoginPage - INFO - Entering password
+2026-03-24 22:21:28,827 - LoginPage - INFO - Entering password
+2026-03-24 22:21:28,827 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:28,827 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:33,243 - LoginPage - INFO - Entering username
+2026-03-24 22:21:33,243 - LoginPage - INFO - Entering username
+2026-03-24 22:21:33,243 - LoginPage - INFO - Entering username
+2026-03-24 22:21:33,244 - LoginPage - INFO - Entering password
+2026-03-24 22:21:33,244 - LoginPage - INFO - Entering password
+2026-03-24 22:21:33,244 - LoginPage - INFO - Entering password
+2026-03-24 22:21:33,244 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:33,244 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:33,244 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:38,108 - test_checkout - INFO - Test started
+2026-03-24 22:21:38,108 - test_checkout - INFO - Opening login page
+2026-03-24 22:21:40,269 - test_checkout - INFO - Logging in
+2026-03-24 22:21:40,269 - LoginPage - INFO - Entering username
+2026-03-24 22:21:40,269 - LoginPage - INFO - Entering username
+2026-03-24 22:21:40,269 - LoginPage - INFO - Entering username
+2026-03-24 22:21:40,269 - LoginPage - INFO - Entering username
+2026-03-24 22:21:40,270 - LoginPage - INFO - Entering password
+2026-03-24 22:21:40,270 - LoginPage - INFO - Entering password
+2026-03-24 22:21:40,270 - LoginPage - INFO - Entering password
+2026-03-24 22:21:40,270 - LoginPage - INFO - Entering password
+2026-03-24 22:21:40,270 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:40,270 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:40,270 - LoginPage - INFO - Clicking login button
+2026-03-24 22:21:40,270 - LoginPage - INFO - Clicking login button
+2026-03-24 22:29:53,656 - LoginPage - INFO - Entering username
+2026-03-24 22:29:53,657 - LoginPage - INFO - Entering password
+2026-03-24 22:29:53,657 - LoginPage - INFO - Clicking login button
+2026-03-24 22:29:58,125 - LoginPage - INFO - Entering username
+2026-03-24 22:29:58,125 - LoginPage - INFO - Entering username
+2026-03-24 22:29:58,125 - LoginPage - INFO - Entering password
+2026-03-24 22:29:58,125 - LoginPage - INFO - Entering password
+2026-03-24 22:29:58,125 - LoginPage - INFO - Clicking login button
+2026-03-24 22:29:58,125 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering username
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering username
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering username
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering password
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering password
+2026-03-24 22:30:03,805 - LoginPage - INFO - Entering password
+2026-03-24 22:30:03,805 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:03,805 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:03,805 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:08,126 - test_checkout - INFO - Test started
+2026-03-24 22:30:08,126 - test_checkout - INFO - Opening login page
+2026-03-24 22:30:10,494 - test_checkout - INFO - Logging in
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering username
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering username
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering username
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering username
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering password
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering password
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering password
+2026-03-24 22:30:10,494 - LoginPage - INFO - Entering password
+2026-03-24 22:30:10,494 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:10,494 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:10,494 - LoginPage - INFO - Clicking login button
+2026-03-24 22:30:10,494 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:14,924 - LoginPage - INFO - Entering username
+2026-03-24 22:31:14,924 - LoginPage - INFO - Entering password
+2026-03-24 22:31:14,924 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:20,044 - LoginPage - INFO - Entering username
+2026-03-24 22:31:20,044 - LoginPage - INFO - Entering username
+2026-03-24 22:31:20,045 - LoginPage - INFO - Entering password
+2026-03-24 22:31:20,045 - LoginPage - INFO - Entering password
+2026-03-24 22:31:20,045 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:20,045 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:24,236 - LoginPage - INFO - Entering username
+2026-03-24 22:31:24,236 - LoginPage - INFO - Entering username
+2026-03-24 22:31:24,236 - LoginPage - INFO - Entering username
+2026-03-24 22:31:24,237 - LoginPage - INFO - Entering password
+2026-03-24 22:31:24,237 - LoginPage - INFO - Entering password
+2026-03-24 22:31:24,237 - LoginPage - INFO - Entering password
+2026-03-24 22:31:24,237 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:24,237 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:24,237 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:28,683 - test_checkout - INFO - Test started
+2026-03-24 22:31:28,684 - test_checkout - INFO - Opening login page
+2026-03-24 22:31:29,490 - test_checkout - INFO - Logging in
+2026-03-24 22:31:29,490 - LoginPage - INFO - Entering username
+2026-03-24 22:31:29,490 - LoginPage - INFO - Entering username
+2026-03-24 22:31:29,490 - LoginPage - INFO - Entering username
+2026-03-24 22:31:29,490 - LoginPage - INFO - Entering username
+2026-03-24 22:31:29,491 - LoginPage - INFO - Entering password
+2026-03-24 22:31:29,491 - LoginPage - INFO - Entering password
+2026-03-24 22:31:29,491 - LoginPage - INFO - Entering password
+2026-03-24 22:31:29,491 - LoginPage - INFO - Entering password
+2026-03-24 22:31:29,491 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:29,491 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:29,491 - LoginPage - INFO - Clicking login button
+2026-03-24 22:31:29,491 - LoginPage - INFO - Clicking login button
+2026-03-25 13:28:52,845 - LoginPage - INFO - Entering username
+2026-03-25 13:28:52,848 - LoginPage - INFO - Entering password
+2026-03-25 13:28:52,848 - LoginPage - INFO - Clicking login button
+2026-03-25 13:28:59,622 - LoginPage - INFO - Entering username
+2026-03-25 13:28:59,622 - LoginPage - INFO - Entering username
+2026-03-25 13:28:59,622 - LoginPage - INFO - Entering password
+2026-03-25 13:28:59,622 - LoginPage - INFO - Entering password
+2026-03-25 13:28:59,622 - LoginPage - INFO - Clicking login button
+2026-03-25 13:28:59,622 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:07,107 - LoginPage - INFO - Entering username
+2026-03-25 13:29:07,107 - LoginPage - INFO - Entering username
+2026-03-25 13:29:07,107 - LoginPage - INFO - Entering username
+2026-03-25 13:29:07,108 - LoginPage - INFO - Entering password
+2026-03-25 13:29:07,108 - LoginPage - INFO - Entering password
+2026-03-25 13:29:07,108 - LoginPage - INFO - Entering password
+2026-03-25 13:29:07,108 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:07,108 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:07,108 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:11,752 - test_checkout - INFO - Test started
+2026-03-25 13:29:11,753 - test_checkout - INFO - Opening login page
+2026-03-25 13:29:15,194 - test_checkout - INFO - Logging in
+2026-03-25 13:29:15,194 - LoginPage - INFO - Entering username
+2026-03-25 13:29:15,194 - LoginPage - INFO - Entering username
+2026-03-25 13:29:15,194 - LoginPage - INFO - Entering username
+2026-03-25 13:29:15,194 - LoginPage - INFO - Entering username
+2026-03-25 13:29:15,195 - LoginPage - INFO - Entering password
+2026-03-25 13:29:15,195 - LoginPage - INFO - Entering password
+2026-03-25 13:29:15,195 - LoginPage - INFO - Entering password
+2026-03-25 13:29:15,195 - LoginPage - INFO - Entering password
+2026-03-25 13:29:15,195 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:15,195 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:15,195 - LoginPage - INFO - Clicking login button
+2026-03-25 13:29:15,195 - LoginPage - INFO - Clicking login button
+2026-03-25 14:13:09,053 - LoginPage - INFO - Entering username
+2026-03-25 14:13:09,053 - LoginPage - INFO - Entering password
+2026-03-25 14:13:09,053 - LoginPage - INFO - Clicking login button
+2026-03-25 14:50:56,673 - LoginPage - INFO - Entering username
+2026-03-25 14:50:56,674 - LoginPage - INFO - Entering password
+2026-03-25 14:50:56,675 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:04,422 - LoginPage - INFO - Entering username
+2026-03-25 14:51:04,422 - LoginPage - INFO - Entering username
+2026-03-25 14:51:04,423 - LoginPage - INFO - Entering password
+2026-03-25 14:51:04,423 - LoginPage - INFO - Entering password
+2026-03-25 14:51:04,423 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:04,423 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering username
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering username
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering username
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering password
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering password
+2026-03-25 14:51:11,870 - LoginPage - INFO - Entering password
+2026-03-25 14:51:11,871 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:11,871 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:11,871 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:16,727 - test_checkout - INFO - Test started
+2026-03-25 14:51:16,727 - test_checkout - INFO - Opening login page
+2026-03-25 14:51:20,231 - test_checkout - INFO - Logging in
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering username
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering username
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering username
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering username
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering password
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering password
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering password
+2026-03-25 14:51:20,232 - LoginPage - INFO - Entering password
+2026-03-25 14:51:20,232 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:20,232 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:20,232 - LoginPage - INFO - Clicking login button
+2026-03-25 14:51:20,232 - LoginPage - INFO - Clicking login button
+2026-03-25 14:55:31,703 - test_checkout - INFO - Test started
+2026-03-25 14:55:31,704 - test_checkout - INFO - Opening login page
+2026-03-25 14:55:35,594 - test_checkout - INFO - Logging in
+2026-03-25 14:55:35,594 - LoginPage - INFO - Entering username
+2026-03-25 14:55:35,594 - LoginPage - INFO - Entering password
+2026-03-25 14:55:35,594 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:25,869 - LoginPage - INFO - Entering username
+2026-03-25 14:57:25,869 - LoginPage - INFO - Entering password
+2026-03-25 14:57:25,870 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:33,272 - LoginPage - INFO - Entering username
+2026-03-25 14:57:33,272 - LoginPage - INFO - Entering username
+2026-03-25 14:57:33,272 - LoginPage - INFO - Entering password
+2026-03-25 14:57:33,272 - LoginPage - INFO - Entering password
+2026-03-25 14:57:33,273 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:33,273 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering username
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering username
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering username
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering password
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering password
+2026-03-25 14:57:40,721 - LoginPage - INFO - Entering password
+2026-03-25 14:57:40,721 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:40,721 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:40,721 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:45,254 - test_checkout - INFO - Test started
+2026-03-25 14:57:45,255 - test_checkout - INFO - Opening login page
+2026-03-25 14:57:48,694 - test_checkout - INFO - Logging in
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering username
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering username
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering username
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering username
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering password
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering password
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering password
+2026-03-25 14:57:48,695 - LoginPage - INFO - Entering password
+2026-03-25 14:57:48,696 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:48,696 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:48,696 - LoginPage - INFO - Clicking login button
+2026-03-25 14:57:48,696 - LoginPage - INFO - Clicking login button
+2026-03-25 15:06:21,200 - test_checkout - INFO - Test started
+2026-03-25 15:06:21,201 - test_checkout - INFO - Opening login page
+2026-03-25 15:06:24,725 - test_checkout - INFO - Logging in
+2026-03-25 15:06:24,726 - LoginPage - INFO - Entering username
+2026-03-25 15:06:24,726 - LoginPage - INFO - Entering password
+2026-03-25 15:06:24,726 - LoginPage - INFO - Clicking login button
+2026-03-25 15:06:59,414 - LoginPage - INFO - Entering username
+2026-03-25 15:06:59,416 - LoginPage - INFO - Entering password
+2026-03-25 15:06:59,416 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:07,444 - LoginPage - INFO - Entering username
+2026-03-25 15:07:07,444 - LoginPage - INFO - Entering username
+2026-03-25 15:07:07,444 - LoginPage - INFO - Entering password
+2026-03-25 15:07:07,444 - LoginPage - INFO - Entering password
+2026-03-25 15:07:07,445 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:07,445 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering username
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering username
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering username
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering password
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering password
+2026-03-25 15:07:15,239 - LoginPage - INFO - Entering password
+2026-03-25 15:07:15,239 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:15,239 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:15,239 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:20,018 - test_checkout - INFO - Test started
+2026-03-25 15:07:20,018 - test_checkout - INFO - Opening login page
+2026-03-25 15:07:24,012 - test_checkout - INFO - Logging in
+2026-03-25 15:07:24,012 - LoginPage - INFO - Entering username
+2026-03-25 15:07:24,012 - LoginPage - INFO - Entering username
+2026-03-25 15:07:24,012 - LoginPage - INFO - Entering username
+2026-03-25 15:07:24,012 - LoginPage - INFO - Entering username
+2026-03-25 15:07:24,013 - LoginPage - INFO - Entering password
+2026-03-25 15:07:24,013 - LoginPage - INFO - Entering password
+2026-03-25 15:07:24,013 - LoginPage - INFO - Entering password
+2026-03-25 15:07:24,013 - LoginPage - INFO - Entering password
+2026-03-25 15:07:24,013 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:24,013 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:24,013 - LoginPage - INFO - Clicking login button
+2026-03-25 15:07:24,013 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:26,586 - LoginPage - INFO - Entering username
+2026-03-31 23:11:26,586 - LoginPage - INFO - Entering password
+2026-03-31 23:11:26,587 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:31,018 - LoginPage - INFO - Entering username
+2026-03-31 23:11:31,018 - LoginPage - INFO - Entering username
+2026-03-31 23:11:31,019 - LoginPage - INFO - Entering password
+2026-03-31 23:11:31,019 - LoginPage - INFO - Entering password
+2026-03-31 23:11:31,019 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:31,019 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:35,594 - LoginPage - INFO - Entering username
+2026-03-31 23:11:35,594 - LoginPage - INFO - Entering username
+2026-03-31 23:11:35,594 - LoginPage - INFO - Entering username
+2026-03-31 23:11:35,595 - LoginPage - INFO - Entering password
+2026-03-31 23:11:35,595 - LoginPage - INFO - Entering password
+2026-03-31 23:11:35,595 - LoginPage - INFO - Entering password
+2026-03-31 23:11:35,595 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:35,595 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:35,595 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:39,782 - test_checkout - INFO - Test started
+2026-03-31 23:11:39,782 - test_checkout - INFO - Opening login page
+2026-03-31 23:11:40,505 - test_checkout - INFO - Logging in
+2026-03-31 23:11:40,505 - LoginPage - INFO - Entering username
+2026-03-31 23:11:40,505 - LoginPage - INFO - Entering username
+2026-03-31 23:11:40,505 - LoginPage - INFO - Entering username
+2026-03-31 23:11:40,505 - LoginPage - INFO - Entering username
+2026-03-31 23:11:40,506 - LoginPage - INFO - Entering password
+2026-03-31 23:11:40,506 - LoginPage - INFO - Entering password
+2026-03-31 23:11:40,506 - LoginPage - INFO - Entering password
+2026-03-31 23:11:40,506 - LoginPage - INFO - Entering password
+2026-03-31 23:11:40,506 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:40,506 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:40,506 - LoginPage - INFO - Clicking login button
+2026-03-31 23:11:40,506 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:23,473 - LoginPage - INFO - Entering username
+2026-04-01 07:41:23,473 - LoginPage - INFO - Entering password
+2026-04-01 07:41:23,474 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:28,314 - LoginPage - INFO - Entering username
+2026-04-01 07:41:28,314 - LoginPage - INFO - Entering username
+2026-04-01 07:41:28,314 - LoginPage - INFO - Entering password
+2026-04-01 07:41:28,314 - LoginPage - INFO - Entering password
+2026-04-01 07:41:28,315 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:28,315 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering username
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering username
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering username
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering password
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering password
+2026-04-01 07:41:33,709 - LoginPage - INFO - Entering password
+2026-04-01 07:41:33,709 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:33,709 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:33,709 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:38,311 - test_checkout - INFO - Test started
+2026-04-01 07:41:38,312 - test_checkout - INFO - Opening login page
+2026-04-01 07:41:39,500 - test_checkout - INFO - Logging in
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering username
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering username
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering username
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering username
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering password
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering password
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering password
+2026-04-01 07:41:39,501 - LoginPage - INFO - Entering password
+2026-04-01 07:41:39,501 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:39,501 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:39,501 - LoginPage - INFO - Clicking login button
+2026-04-01 07:41:39,501 - LoginPage - INFO - Clicking login button
+2026-04-01 07:44:51,367 - LoginPage - INFO - Entering username
+2026-04-01 07:44:51,368 - LoginPage - INFO - Entering password
+2026-04-01 07:44:51,368 - LoginPage - INFO - Clicking login button
+2026-04-01 07:44:57,356 - LoginPage - INFO - Entering username
+2026-04-01 07:44:57,356 - LoginPage - INFO - Entering username
+2026-04-01 07:44:57,357 - LoginPage - INFO - Entering password
+2026-04-01 07:44:57,357 - LoginPage - INFO - Entering password
+2026-04-01 07:44:57,357 - LoginPage - INFO - Clicking login button
+2026-04-01 07:44:57,357 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering username
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering username
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering username
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering password
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering password
+2026-04-01 07:45:02,910 - LoginPage - INFO - Entering password
+2026-04-01 07:45:02,910 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:02,910 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:02,910 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:07,372 - test_checkout - INFO - Test started
+2026-04-01 07:45:07,373 - test_checkout - INFO - Opening login page
+2026-04-01 07:45:08,528 - test_checkout - INFO - Logging in
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering username
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering username
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering username
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering username
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering password
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering password
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering password
+2026-04-01 07:45:08,529 - LoginPage - INFO - Entering password
+2026-04-01 07:45:08,529 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:08,529 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:08,529 - LoginPage - INFO - Clicking login button
+2026-04-01 07:45:08,529 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:28,841 - LoginPage - INFO - Entering username
+2026-04-01 08:04:28,842 - LoginPage - INFO - Entering password
+2026-04-01 08:04:28,843 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:34,745 - LoginPage - INFO - Entering username
+2026-04-01 08:04:34,745 - LoginPage - INFO - Entering username
+2026-04-01 08:04:34,746 - LoginPage - INFO - Entering password
+2026-04-01 08:04:34,746 - LoginPage - INFO - Entering password
+2026-04-01 08:04:34,746 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:34,746 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:39,281 - test_checkout - INFO - Test started
+2026-04-01 08:04:39,282 - test_checkout - INFO - Opening login page
+2026-04-01 08:04:40,269 - test_checkout - INFO - Logging in
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering username
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering username
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering username
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering password
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering password
+2026-04-01 08:04:40,269 - LoginPage - INFO - Entering password
+2026-04-01 08:04:40,269 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:40,269 - LoginPage - INFO - Clicking login button
+2026-04-01 08:04:40,269 - LoginPage - INFO - Clicking login button
+2026-04-01 08:08:52,618 - LoginPage - INFO - Entering username
+2026-04-01 08:08:52,618 - LoginPage - INFO - Entering password
+2026-04-01 08:08:52,618 - LoginPage - INFO - Clicking login button
+2026-04-01 08:08:56,752 - LoginPage - INFO - Entering username
+2026-04-01 08:08:56,752 - LoginPage - INFO - Entering username
+2026-04-01 08:08:56,752 - LoginPage - INFO - Entering password
+2026-04-01 08:08:56,752 - LoginPage - INFO - Entering password
+2026-04-01 08:08:56,753 - LoginPage - INFO - Clicking login button
+2026-04-01 08:08:56,753 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering username
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering username
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering username
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering password
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering password
+2026-04-01 08:09:01,382 - LoginPage - INFO - Entering password
+2026-04-01 08:09:01,382 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:01,382 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:01,382 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:05,891 - test_checkout - INFO - Test started
+2026-04-01 08:09:05,891 - test_checkout - INFO - Opening login page
+2026-04-01 08:09:07,438 - test_checkout - INFO - Logging in
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering username
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering username
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering username
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering username
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering password
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering password
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering password
+2026-04-01 08:09:07,438 - LoginPage - INFO - Entering password
+2026-04-01 08:09:07,439 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:07,439 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:07,439 - LoginPage - INFO - Clicking login button
+2026-04-01 08:09:07,439 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:35,762 - LoginPage - INFO - Entering username
+2026-04-20 12:20:35,762 - LoginPage - INFO - Entering password
+2026-04-20 12:20:35,762 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:42,753 - LoginPage - INFO - Entering username
+2026-04-20 12:20:42,753 - LoginPage - INFO - Entering username
+2026-04-20 12:20:42,753 - LoginPage - INFO - Entering password
+2026-04-20 12:20:42,753 - LoginPage - INFO - Entering password
+2026-04-20 12:20:42,753 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:42,753 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering username
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering username
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering username
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering password
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering password
+2026-04-20 12:20:49,731 - LoginPage - INFO - Entering password
+2026-04-20 12:20:49,731 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:49,731 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:49,731 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:53,567 - test_checkout - INFO - Test started
+2026-04-20 12:20:53,569 - test_checkout - INFO - Opening login page
+2026-04-20 12:20:57,181 - test_checkout - INFO - Logging in
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering username
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering username
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering username
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering username
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering password
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering password
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering password
+2026-04-20 12:20:57,181 - LoginPage - INFO - Entering password
+2026-04-20 12:20:57,181 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:57,181 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:57,181 - LoginPage - INFO - Clicking login button
+2026-04-20 12:20:57,181 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:21,383 - LoginPage - INFO - Entering username
+2026-04-27 15:18:21,383 - LoginPage - INFO - Entering password
+2026-04-27 15:18:21,385 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:26,314 - LoginPage - INFO - Entering username
+2026-04-27 15:18:26,314 - LoginPage - INFO - Entering username
+2026-04-27 15:18:26,315 - LoginPage - INFO - Entering password
+2026-04-27 15:18:26,315 - LoginPage - INFO - Entering password
+2026-04-27 15:18:26,315 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:26,315 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:30,796 - LoginPage - INFO - Entering username
+2026-04-27 15:18:30,796 - LoginPage - INFO - Entering username
+2026-04-27 15:18:30,796 - LoginPage - INFO - Entering username
+2026-04-27 15:18:30,797 - LoginPage - INFO - Entering password
+2026-04-27 15:18:30,797 - LoginPage - INFO - Entering password
+2026-04-27 15:18:30,797 - LoginPage - INFO - Entering password
+2026-04-27 15:18:30,797 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:30,797 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:30,797 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:35,449 - test_checkout - INFO - Test started
+2026-04-27 15:18:35,450 - test_checkout - INFO - Opening login page
+2026-04-27 15:18:35,558 - test_checkout - INFO - Logging in
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering username
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering username
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering username
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering username
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering password
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering password
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering password
+2026-04-27 15:18:35,558 - LoginPage - INFO - Entering password
+2026-04-27 15:18:35,559 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:35,559 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:35,559 - LoginPage - INFO - Clicking login button
+2026-04-27 15:18:35,559 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:08,767 - LoginPage - INFO - Entering username
+2026-04-27 15:20:08,768 - LoginPage - INFO - Entering password
+2026-04-27 15:20:08,768 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:12,617 - LoginPage - INFO - Entering username
+2026-04-27 15:20:12,617 - LoginPage - INFO - Entering username
+2026-04-27 15:20:12,618 - LoginPage - INFO - Entering password
+2026-04-27 15:20:12,618 - LoginPage - INFO - Entering password
+2026-04-27 15:20:12,618 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:12,618 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:17,614 - LoginPage - INFO - Entering username
+2026-04-27 15:20:17,614 - LoginPage - INFO - Entering username
+2026-04-27 15:20:17,614 - LoginPage - INFO - Entering username
+2026-04-27 15:20:17,615 - LoginPage - INFO - Entering password
+2026-04-27 15:20:17,615 - LoginPage - INFO - Entering password
+2026-04-27 15:20:17,615 - LoginPage - INFO - Entering password
+2026-04-27 15:20:17,615 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:17,615 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:17,615 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:22,171 - test_checkout - INFO - Test started
+2026-04-27 15:20:22,173 - test_checkout - INFO - Opening login page
+2026-04-27 15:20:22,830 - test_checkout - INFO - Logging in
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering username
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering username
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering username
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering username
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering password
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering password
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering password
+2026-04-27 15:20:22,830 - LoginPage - INFO - Entering password
+2026-04-27 15:20:22,831 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:22,831 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:22,831 - LoginPage - INFO - Clicking login button
+2026-04-27 15:20:22,831 - LoginPage - INFO - Clicking login button

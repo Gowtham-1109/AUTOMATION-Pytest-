@@ -1,0 +1,3 @@
+[32mINFO    [0m LoginPage:login_page.py:18 Entering username
+[32mINFO    [0m LoginPage:login_page.py:19 Entering password
+[32mINFO    [0m LoginPage:login_page.py:20 Clicking login button
